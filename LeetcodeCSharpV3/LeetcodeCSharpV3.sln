@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeCSharpV3", "LeetcodeCSharpV3\LeetcodeCSharpV3.csproj", "{A8A5382D-BAEF-4CF3-A11B-A80DA5328509}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2", "Test2\Test2.csproj", "{0DC909B8-AE1B-463F-AC76-220DAFC22F21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -13,5 +15,9 @@ Global
 		{A8A5382D-BAEF-4CF3-A11B-A80DA5328509}.Debug|anycpu.Build.0 = Debug|anycpu
 		{A8A5382D-BAEF-4CF3-A11B-A80DA5328509}.Release|anycpu.ActiveCfg = Release|anycpu
 		{A8A5382D-BAEF-4CF3-A11B-A80DA5328509}.Release|anycpu.Build.0 = Release|anycpu
+		{0DC909B8-AE1B-463F-AC76-220DAFC22F21}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0DC909B8-AE1B-463F-AC76-220DAFC22F21}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0DC909B8-AE1B-463F-AC76-220DAFC22F21}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0DC909B8-AE1B-463F-AC76-220DAFC22F21}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
