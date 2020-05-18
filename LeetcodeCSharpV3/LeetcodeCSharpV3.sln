@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeCSharpV3", "Leetcod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2", "Test2\Test2.csproj", "{0DC909B8-AE1B-463F-AC76-220DAFC22F21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{F58DD3BA-C4BE-45D6-B3A3-B83F293DCAA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -19,5 +21,9 @@ Global
 		{0DC909B8-AE1B-463F-AC76-220DAFC22F21}.Debug|anycpu.Build.0 = Debug|anycpu
 		{0DC909B8-AE1B-463F-AC76-220DAFC22F21}.Release|anycpu.ActiveCfg = Release|anycpu
 		{0DC909B8-AE1B-463F-AC76-220DAFC22F21}.Release|anycpu.Build.0 = Release|anycpu
+		{F58DD3BA-C4BE-45D6-B3A3-B83F293DCAA5}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F58DD3BA-C4BE-45D6-B3A3-B83F293DCAA5}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F58DD3BA-C4BE-45D6-B3A3-B83F293DCAA5}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F58DD3BA-C4BE-45D6-B3A3-B83F293DCAA5}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
