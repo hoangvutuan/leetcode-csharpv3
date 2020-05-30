@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge", "Merge\Merge.csproj", "{3AE9BCB3-0E1D-47A3-8A8B-852E4C5B3110}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{CEB5E926-3EC5-4B07-9F9D-B2E8011C41D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -25,5 +27,9 @@ Global
 		{3AE9BCB3-0E1D-47A3-8A8B-852E4C5B3110}.Debug|anycpu.Build.0 = Debug|anycpu
 		{3AE9BCB3-0E1D-47A3-8A8B-852E4C5B3110}.Release|anycpu.ActiveCfg = Release|anycpu
 		{3AE9BCB3-0E1D-47A3-8A8B-852E4C5B3110}.Release|anycpu.Build.0 = Release|anycpu
+		{CEB5E926-3EC5-4B07-9F9D-B2E8011C41D3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CEB5E926-3EC5-4B07-9F9D-B2E8011C41D3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CEB5E926-3EC5-4B07-9F9D-B2E8011C41D3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CEB5E926-3EC5-4B07-9F9D-B2E8011C41D3}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal

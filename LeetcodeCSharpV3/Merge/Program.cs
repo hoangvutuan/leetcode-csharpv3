@@ -57,9 +57,9 @@ nums2 = [2,5,6],       n = 3
             int[] nums2 = new int[] {2, 5, 6};
             int m = 3;
             Merge(nums1, m, nums2, nums2.Length);
-            foreach (int num in nums1) {
+         ˇ   foreach (int num in nums1) {
                 Console.WriteLine(num);
             }
         }
-    }
+    }   
 }
