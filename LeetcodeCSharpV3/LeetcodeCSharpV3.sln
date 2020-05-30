@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge", "Merge\Merge.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{CEB5E926-3EC5-4B07-9F9D-B2E8011C41D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{B2760DFC-3878-4878-AD89-FC94385FAF13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -31,5 +33,9 @@ Global
 		{CEB5E926-3EC5-4B07-9F9D-B2E8011C41D3}.Debug|anycpu.Build.0 = Debug|anycpu
 		{CEB5E926-3EC5-4B07-9F9D-B2E8011C41D3}.Release|anycpu.ActiveCfg = Release|anycpu
 		{CEB5E926-3EC5-4B07-9F9D-B2E8011C41D3}.Release|anycpu.Build.0 = Release|anycpu
+		{B2760DFC-3878-4878-AD89-FC94385FAF13}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B2760DFC-3878-4878-AD89-FC94385FAF13}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B2760DFC-3878-4878-AD89-FC94385FAF13}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B2760DFC-3878-4878-AD89-FC94385FAF13}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
